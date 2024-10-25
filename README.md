@@ -1,5 +1,7 @@
 # Netflix vs. Disney+ Streaming Analysis
 
+![sci-fi-movies-and-series](https://github.com/user-attachments/assets/4b75ed95-3ff3-478a-a8e6-1b7e649e9f93)
+
 ## Project Overview
 This project provides a comparative analysis of content on *Netflix* and *Disney+*, exploring both platforms' strategies, global reach, and content trends. The analysis examines content diversity, age demographics, and international representation in actors and directors, ultimately proposing a data-driven approach for creating a new streaming platform in 2024 or 2025.
 
